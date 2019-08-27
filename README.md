@@ -40,8 +40,10 @@ e）sklearn：机器学习包，数据分析必备。（需要结合机器学习
 
 书籍：
 
+
 深入学习框架：推荐Pytorch，比tf更适合科研，因发布较晚，历史遗留问题较少。（官方入门教程：https://pytorch.org/tutorials/）
 
+另一个中文入门教程：https://github.com/WavenZ/pytorch-handbook
 
 
 ## 4.1 Python深入书籍
