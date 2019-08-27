@@ -4,7 +4,7 @@
 
 廖雪峰的python教程：https://www.liaoxuefeng.com/wiki/1016959663602400 （2-4周）
 
-<img src = "https://img-blog.csdnimg.cn/20190827104228539.png">
+<img src = "https://img-blog.csdnimg.cn/20190827104228539.png" width = "80%">
 
 基础语法看完前面几章就可以了，到图形界面章节之前。（第一遍看的时候一定要将所有代码敲一遍！）
 
@@ -47,6 +47,7 @@ e）sklearn：机器学习包，数据分析必备。（需要结合机器学习
 ## 4.1 Python深入书籍
 
 完成1、2、3后已经对python的基础语法基本熟悉，也知道自己在语法层面有哪些欠缺，可以看看一些比较深入的语法书籍：《Python Cookbook（第3版）中文版》（类似C++ primer的大块头，慢慢看，不可能很快看完）
+<img src = "https://img-blog.csdnimg.cn/20190827114246400.png">
 
 ## 4.2 数据科学有关书籍
 
