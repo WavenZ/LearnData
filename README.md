@@ -16,7 +16,7 @@
 
 一本Python入门书籍：《Python编程：从入门到实践》 （在1的基础上1周）
 <div align = center>
-<img src = "https://img-blog.csdnimg.cn/20190827113441783.png">
+<img src = "https://img-blog.csdnimg.cn/20190827113441783.png" width = "80%">
 <div align = left>
 这本书难度低，而且很薄（只有200+页），看起来很愉快。
 
